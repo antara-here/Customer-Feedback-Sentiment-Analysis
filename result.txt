@@ -1,0 +1,19 @@
+PRODUCT	AVGRATING				
+Laptop	4				
+Headphones	3.5				
+					
+PRODUCT	1_Star	2_Star	3_Star	4_Star	5_Star
+Headphones	0	1	0	0	1
+Laptop	0	0	1	1	1
+					
+PRODUCT	SENTIMENTSCORE				
+Laptop	1				
+Headphones	0				
+					
+PRODUCT	AVGRATING				
+Laptop	4				
+Headphones	3.5				
+					
+PRODUCT	NEGATIVEFEEDBACKCOUNT				
+Headphones	1				
+Laptop	0				
